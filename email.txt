@@ -1,0 +1,4 @@
+Ciao questa e' una mail generata da uno script bash.
+Fonte script : https://linuxhint.com/bash_script_send_email/ 
+Account github (prova link) : https://github.com/AlePioggia
+Alessandro
