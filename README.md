@@ -15,4 +15,4 @@ SendMultipleFormattedMails.sh -> is the fanciest one, it will allow you to send 
 It works just like the first one, you can write the html formatted mail in mail.html
 
 WILL BE ADDED LATER:
-The traslation from scrits to aliases
+The traslation from scripts to aliases
